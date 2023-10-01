@@ -1,8 +1,7 @@
-# Aprendizado por Projeto Integrado (API) - Template
+#  Projeto Integrado (API) 3º Semestre Tecnologia Logística (2/2023)
+. 
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
-
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos
+Projeto na metodologia ágil SCRUM, desenvolvendo a Proatividade, Autonomia, Colaboração e Entrega de Resultado.
 
 # Índice
 
@@ -17,9 +16,9 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 * [Autores](#autores)
 
 # Projeto (API) 
-Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil. 
-Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
-Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da Fatec SJC com definição das datas do kickoff e das sprints
+Projeto alicerçado na Metodologia API focado no desenvolvimento de competências e fundamentada nos pilares o com problemas reais, validação externa e mentalidade ágil. 
+Uso de estratégias para entender o problema, conceber uma solução viável.
+
 
 Sprint | Previsão | Status|
 |------|--------|------|
@@ -35,12 +34,12 @@ Sprint | Previsão | Status|
 
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Projeto de análise de produtividade, de otimização de distribuição e de custos de rotas de uma empresa embarcadora de cargas com:
+Criação e modelagem de um banco de dados em SQL;
+Criação de um visualizador de indicadores em power BI;
+Aplicação do método de transportes para otimização da distribuição.
+
+
 
 # Funcionalidades e registros (vídeos e apresnetações) das sprints
 
@@ -49,14 +48,18 @@ Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário
 
 Adicionar video e documentos nessa seção
 
-[![Nome do Vídeo](https://img.youtube.com/vi/pBy1zgt0XPc/0.jpg)](https://www.youtube.com/embed/pBy1zgt0XPc)
+Como fazer rotas - Caso real de roteirização no transporte e distribuição
+
+https://www.youtube.com/watch?v=HPu7vw8mIyw
 
 ## Tecnologias Utilizadas
 
+![image](https://github.com/SilveiraEliane/3/assets/134539033/a291de07-04cb-41c1-af2a-2ddfa02a8e0d)![image](https://github.com/SilveiraEliane/3/assets/134539033/219813dd-9844-431f-88d1-f85fa6408d1e)
+
+
 * Jira Software
-* Power BI
-* Microsoft Excel
-* Slack
+* Github
+
 
 
 
