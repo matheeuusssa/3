@@ -6,14 +6,15 @@ Projeto na metodologia ágil SCRUM, desenvolvendo a Proatividade, Autonomia, Col
 # Índice
 
 * [Projetos](#projetos)
-* [Tecnologias](#tecnologias)
-* [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
+* [Tecnologias](#tecnologias)
 * [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
+* [Equipe](#equipe)
 * [Autores](#autores)
+* [Informações Extras Sobre o Transporte](#Informações-Extras-Sobre-o-transporte)
 
 # Projeto (API) 
 Projeto alicerçado na Metodologia API focado no desenvolvimento de competências e fundamentada nos pilares o com problemas reais, validação externa e mentalidade ágil. 
@@ -44,12 +45,8 @@ Menor custo do transporte
 
 
 
-# Funcionalidades e registros (vídeos e apresnetações) das sprints
+# Funcionalidades e registros (vídeos) das sprints
 
-Apresentação das funcionalidades
-Confira a seguir uma demonstraão das funcionalidades para cada tipo de usuário do sistema:
-
-Adicionar video e documentos nessa seção
 
 Como fazer rotas - Caso real de roteirização no transporte e distribuição
 
@@ -68,50 +65,55 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 
 # Backlog do produto
 
-## Sprint 1. Concepção
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
+## Sprint 0. Concepção
+- [x] Definição da equipe;
+- [x] Escolha do Scrum Master e P.O;
+- [x] Reunião de Brainstorm;
+- [x] Criação Jira 3º Semestre;
+- [x] Desenvolvimento do Github;
+- [ ] Gestão de Conflitos na equipe;
+- [ ] Pesquisa sobre roteirização;
 - [ ] Criação do vídeo;
 - [ ] Finalize e aprovação.
 
-## Sprint 2. Desenvolvimento do Projeto
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+## Sprint 1. Desenvolvimento do Projeto
+- [ ] XXX;
+- [ ] XXX;
+- [ ] XXXs;
+- [ ] XXX;
+- [ ] MXXX.
       
-## Sprint 3 . Implementação
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Sprint 2 . Implementação
+- [x] XXX;
+- [x] XXX;
+- [x] XXX;
+- [x] XXX;
+- [x] XXX;
+- [ ] XXX;
+- [ ] XXX;
+- [ ] XXX;
+- [ ] XXX.
       
-## Sprint 4. Operacionalização
-- [x] Defina o propósito do template;
-- [x] Identifique os elementos principais;
-- [x] Esboce o layout;
-- [x] Escolha cores e fontes;
-- [x] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+## Feira de Souções. Operacionalização
+- [x] XXX;
+- [x] XXX;
+- [x] XXX;
+- [x] XXX;
+- [x] XXX;
+- [ ] XXX;
+- [ ] XXX;
+- [ ] XXX;
+- [ ] XXX.
 
 
 
   
-# Competências desenvolvidas
+# Equipe do Projeto
+
+## Scrum Master (Douglas)
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/19381297-55d4-4152-bb2b-86cd090aed34)
+
 
 ## Hard Skill (saber tecnológico)
 <details>
@@ -143,6 +145,9 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 
 </details>
 
+# Equipe
+
+
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -152,7 +157,7 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 |  Team Member  | Júlio                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
 |  Team Member  | Rafael       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
-# Informações Sobre o Transporte Rodoviário
+# Informações Exras Sobre o Transporte Rodoviário
 
 
 Em contraste com a ferrovia, o serviço rodoviário é o transporte de produtos semiprontos ou acabados com linha de alcance médio de 717 milhas para carga fracionada (LTL - less than truckload) e de 286 milhas para cargas completas (TL - truckload).‘ Outro contraste é que as cargas rodoviárias têm sempre menor porte que as ferroviárias. Mais da metade dos arregamentos rodoviários tem menos de 10.000 libras, ou volume LTL.
