@@ -114,10 +114,28 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/19381297-55d4-4152-bb2b-86cd090aed34)
 
+## PO (Eliane)
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/a6c51636-fe14-44c5-a68d-7bf42c7ca2f3)
+
+## Scrum Team 01 (Matheus)
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/b9c42b8c-0b04-4a3b-8440-9a3257bde51c)
+
+## Scrum Team 02 (Júlio)
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/dcab05cc-5d48-4c1a-b53b-a7d71e361555)
+
+## Scrum Team 03 (Rafael)
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/f763ff1e-8735-4d09-864d-022dee61a3b9)
+
 
 ## Hard Skill (saber tecnológico)
 <details>
 <summary>Hard Skills desenvolvidas</summary>
+
+*Adaptação às novas tecnologias;
   
 | Tecnologia/Metodologia | Classificação |
 | ---------------------- | ------------- |
@@ -130,9 +148,23 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
  
 </details>
 
-## Soft Skill (saber comportamental)
+## Soft Skill (comportamental)
 <details>
 <summary>Soft Skills desenvolvidas</summary>
+
+      
+* Trabalho em Equipe a ser desenvolvida;
+* Liderança;
+* Convivência;
+* Gestão de tempo;
+* Solução de Problemas;
+* Flexibilidade e adaptibilidade;
+* Lidar com pressão;
+* Autoconfiança;
+* Aceitar críticas;
+* Atitude positiva e resiliência;
+* Ética;
+  
 
 | Habilidades | Classificação |
 | ---------------------- | ------------- |
@@ -144,8 +176,6 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
 </details>
-
-# Equipe
 
 
 # Autores
