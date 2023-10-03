@@ -70,10 +70,8 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Reunião de Brainstorm;
 - [x] Criação Jira 3º Semestre;
 - [x] Desenvolvimento do Github;
-- [ ] Gestão de Conflitos na equipe;
-- [ ] Pesquisa sobre roteirização;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [x] Pesquisa sobre roteirização;
+- [ ] Finalizada a etapa e e aprovada.
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [ ] XXX;
@@ -104,53 +102,28 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [ ] XXX;
 - [ ] XXX.
 
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
+## Hard Skill.
 
-*Adaptação às novas tecnologias;
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
- 
-</details>
+Adaptação às novas Tecnologias
 
-## Soft Skill (comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
+## Soft Skill.
 
-      
 * Trabalho em Equipe a ser desenvolvida;
 * Liderança;
 * Convivência;
+* Colaboração;
+* Proatividade;
 * Gestão de tempo;
 * Solução de Problemas;
-* Flexibilidade e adaptibilidade;
+* Flexibilidade;
 * Lidar com pressão;
 * Autoconfiança;
-* Aceitar críticas;
+* Adaptabilidade;
+* Pensamento Crítico;
+* Abertura para aceitação de críticas;
 * Atitude positiva e resiliência;
 * Ética;
-  
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
-
-
+ 
   
 # Equipe do Projeto
 
@@ -173,54 +146,8 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 ## Scrum Team 03 (Rafael)
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/f763ff1e-8735-4d09-864d-022dee61a3b9)
-
-
-## Hard Skill (saber tecnológico)
-<details>
-<summary>Hard Skills desenvolvidas</summary>
-
-*Adaptação às novas tecnologias;
-  
-| Tecnologia/Metodologia | Classificação |
-| ---------------------- | ------------- |
-| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+   
  
-</details>
-
-## Soft Skill (comportamental)
-<details>
-<summary>Soft Skills desenvolvidas</summary>
-
-      
-* Trabalho em Equipe a ser desenvolvida;
-* Liderança;
-* Convivência;
-* Gestão de tempo;
-* Solução de Problemas;
-* Flexibilidade e adaptibilidade;
-* Lidar com pressão;
-* Autoconfiança;
-* Aceitar críticas;
-* Atitude positiva e resiliência;
-* Ética;
-  
-
-| Habilidades | Classificação |
-| ---------------------- | ------------- |
-| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
-| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
-| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
-
-</details>
-
 
 # Autores
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
@@ -231,8 +158,12 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 |  Team Member  | Júlio                 |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-camargo-915452196/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/GabrielCamargoL)   |
 |  Team Member  | Rafael       |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gioliveirass) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/gioliveirass)          |
 
-# Informações Exras Sobre o Transporte Rodoviário
+# Agradecimentos
 
+Professor Jean por sua disponibilidade e Profissionalismo.
+
+
+# Informações Exras Sobre o Transporte Rodoviário
 
 Em contraste com a ferrovia, o serviço rodoviário é o transporte de produtos semiprontos ou acabados com linha de alcance médio de 717 milhas para carga fracionada (LTL - less than truckload) e de 286 milhas para cargas completas (TL - truckload).‘ Outro contraste é que as cargas rodoviárias têm sempre menor porte que as ferroviárias. Mais da metade dos arregamentos rodoviários tem menos de 10.000 libras, ou volume LTL.
 As vantagens inerentes do transporte rodoviário são o serviço porta-a-porta, sem necessidade de carga ou descarga entre origem e destino, transbordo esse inevitável nos modais ferroviário e aéreos; a freqüência e disponibilidade do serviço, e a velocidade e comodidade inerentes ao serviço porta-a-porta.
