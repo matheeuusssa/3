@@ -5,11 +5,10 @@ Projeto na metodologia ágil SCRUM, desenvolvendo a Proatividade, Autonomia, Col
 
 # Índice
 
-* [Projetos](#projetos)
+* [Projeto](#projetos)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Funcionalidades e registros (vídeos e apresnetações) das sprints](#funcionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Tecnologias](#tecnologias)
-* [Cronograma das Sprints](#Cronograma-das-Sprints)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
 * [Equipe](#equipe)
@@ -105,6 +104,51 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [ ] XXX;
 - [ ] XXX.
 
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+
+*Adaptação às novas tecnologias;
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Git Projects | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+ 
+</details>
+
+## Soft Skill (comportamental)
+<details>
+<summary>Soft Skills desenvolvidas</summary>
+
+      
+* Trabalho em Equipe a ser desenvolvida;
+* Liderança;
+* Convivência;
+* Gestão de tempo;
+* Solução de Problemas;
+* Flexibilidade e adaptibilidade;
+* Lidar com pressão;
+* Autoconfiança;
+* Aceitar críticas;
+* Atitude positiva e resiliência;
+* Ética;
+  
+
+| Habilidades | Classificação |
+| ---------------------- | ------------- |
+| Colaboração | ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ ☆ |
+| Proatividade| ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ ☆ |
+| Pensamento Crítico | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Gerenciamento de Tempo | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+| Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
+
+</details>
 
 
   
