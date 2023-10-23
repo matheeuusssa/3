@@ -43,7 +43,7 @@ Menor custo do transporte
 
 
 
-# Funcionalidades e registros (vídeos) das sprints
+# Funcionalidades e registros das sprints
 
 
 Como fazer rotas - Caso real de roteirização no transporte e distribuição
@@ -53,9 +53,7 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 ## Tecnologias Utilizadas
 
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/a291de07-04cb-41c1-af2a-2ddfa02a8e0d)![image](https://github.com/SilveiraEliane/3/assets/134539033/219813dd-9844-431f-88d1-f85fa6408d1e)
-
-
-
+![image](https://github.com/SilveiraEliane/3/assets/134539033/f92ae89e-2000-42cc-ac02-ae579ba23143)
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/e8d16c64-977f-4cfb-aa67-d45e3e51fc6a)
 
 
@@ -76,7 +74,7 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Desenvolver Github;
 - [x] Perguntas ao Cliente;
 - [x] Alimentar Jira;
-- [x] Tratar os dados no Excel;
+- [x] Tratamento dos dados no Excel;
 - [ ] Finalizada a etapa e e aprovada.
 
       Gráfico de Produtividade do transporte por 12 meses
@@ -84,11 +82,11 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
     
 ## Sprint 2 . Implementação
 - [ ] Github;
-- [ ] Refinar os dados no excel;
+- [ ] Refinamento dos dados no excel;
 - [ ] Análise das rotas;
 - [ ] Perguntas ao Cliente;
-- [ ] Power BI;
 - [ ] Modelagem dos dados;
+- [ ] Desenvolver Power BI;
 - [ ] Finalizada a etapa e e aprovada;
 
       
@@ -128,7 +126,7 @@ Adaptação às novas Tecnologias
 
 # Agradecimentos
 
-Professor Jean por sua disponibilidade e Profissionalismo.
+Professor Jean por sua disponibilidade e Profissionalismo e ao professor Marcus por nos incentivar a buscar a excelência
 
 
 # Informações Exras Sobre o Transporte Rodoviário
