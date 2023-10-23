@@ -24,10 +24,9 @@ Sprint | Previsão | Status|
 |------|--------|------|
 |Kick Off | 09/05/2023 | Concluido|
 |00 | 10/03/2023 | Concluido|
-|01|  10/17/2023| a desenvolver |
+|01|  10/24/2023| Concluído|
 |02| 11/07/2023 | a desenvolver|
 |03| 28/11/2023 |a desenvolver |
-|Feira de Soluções|12/12/2023 |a desenvolver |
 
 
 
@@ -56,8 +55,8 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/a291de07-04cb-41c1-af2a-2ddfa02a8e0d)![image](https://github.com/SilveiraEliane/3/assets/134539033/219813dd-9844-431f-88d1-f85fa6408d1e)
 
 
-* Jira Software
-* Github
+
+![image](https://github.com/SilveiraEliane/3/assets/134539033/e8d16c64-977f-4cfb-aa67-d45e3e51fc6a)
 
 
 
@@ -71,37 +70,28 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Criação Jira 3º Semestre;
 - [x] Desenvolvimento do Github;
 - [x] Pesquisa sobre roteirização;
-- [ ] Finalizada a etapa e e aprovada.
+- [x] Finalizada a etapa e e aprovada.
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [ ] XXX;
-- [ ] XXX;
-- [ ] XXXs;
-- [ ] XXX;
-- [ ] MXXX.
-      
-## Sprint 2 . Implementação
-- [x] XXX;
-- [x] XXX;
-- [x] XXX;
-- [x] XXX;
-- [x] XXX;
-- [ ] XXX;
-- [ ] XXX;
-- [ ] XXX;
-- [ ] XXX.
-      
-## Feira de Souções. Operacionalização
-- [x] XXX;
-- [x] XXX;
-- [x] XXX;
-- [x] XXX;
-- [x] XXX;
-- [ ] XXX;
-- [ ] XXX;
-- [ ] XXX;
-- [ ] XXX.
+- [x] Desenvolver Github;
+- [x] Perguntas ao Cliente;
+- [x] Alimentar Jira;
+- [x] Tratar os dados no Excel;
+- [ ] Finalizada a etapa e e aprovada.
 
+      Gráfico de Produtividade do transporte por 12 meses
+  ![image](https://github.com/SilveiraEliane/3/assets/134539033/10abd928-c37a-4924-aaee-324011da1ad9)
+    
+## Sprint 2 . Implementação
+- [ ] Github;
+- [ ] Refinar os dados no excel;
+- [ ] Análise das rotas;
+- [ ] Perguntas ao Cliente;
+- [ ] Power BI;
+- [ ] Modelagem dos dados;
+- [ ] Finalizada a etapa e e aprovada;
+
+      
 ## Hard Skill.
 
 Adaptação às novas Tecnologias
@@ -125,28 +115,6 @@ Adaptação às novas Tecnologias
 * Ética;
  
   
-# Equipe do Projeto
-
-## Scrum Master (Douglas)
-
-![image](https://github.com/SilveiraEliane/3/assets/134539033/19381297-55d4-4152-bb2b-86cd090aed34)
-
-## PO (Eliane)
-
-![image](https://github.com/SilveiraEliane/3/assets/134539033/a6c51636-fe14-44c5-a68d-7bf42c7ca2f3)
-
-## Scrum Team 01 (Matheus)
-
-![image](https://github.com/SilveiraEliane/3/assets/134539033/b9c42b8c-0b04-4a3b-8440-9a3257bde51c)
-
-## Scrum Team 02 (Júlio)
-
-![image](https://github.com/SilveiraEliane/3/assets/134539033/dcab05cc-5d48-4c1a-b53b-a7d71e361555)
-
-## Scrum Team 03 (Rafael)
-
-![image](https://github.com/SilveiraEliane/3/assets/134539033/f763ff1e-8735-4d09-864d-022dee61a3b9)
-   
  
 
 # Autores
