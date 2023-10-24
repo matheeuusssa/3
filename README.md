@@ -1,7 +1,7 @@
 #  Projeto Integrado (API) 3º Semestre Tecnologia Logística (2/2023)
 . 
 
-Projeto na metodologia ágil SCRUM, desenvolvendo a Proatividade, Autonomia, Colaboração e Entrega de Resultado.
+Projeto na Metodologia Ágil SCRUM, desenvolvendo a Proatividade, Autonomia, Colaboração e Entrega de Resultado.
 
 # Índice
 
@@ -11,7 +11,6 @@ Projeto na metodologia ágil SCRUM, desenvolvendo a Proatividade, Autonomia, Col
 * [Tecnologias](#tecnologias)
 * [Backlog do produto](#Backlog-do-produto)
 * [Competências desenvolvidas](#competências-desenvolvidas)
-* [Equipe](#equipe)
 * [Autores](#autores)
 * [Informações Extras Sobre o Transporte](#Informações-Extras-Sobre-o-transporte)
 
@@ -26,7 +25,6 @@ Sprint | Previsão | Status|
 |00 | 10/03/2023 | Concluido|
 |01|  10/24/2023| Concluído|
 |02| 11/07/2023 | a desenvolver|
-|03| 28/11/2023 |a desenvolver |
 
 
 
@@ -77,8 +75,20 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 - [x] Tratamento dos dados no Excel;
 - [ ] Finalizada a etapa e e aprovada.
 
-      Gráfico de Produtividade do transporte por 12 meses
+      GRÁFICO DE PRODUTIVIDADE DO TRANSPORTE POR 12 MESES
   ![image](https://github.com/SilveiraEliane/3/assets/134539033/10abd928-c37a-4924-aaee-324011da1ad9)
+
+      GRÁFICO DE INPUT/OUTPUT DA CAPACIDADE EM % 
+![image](https://github.com/SilveiraEliane/3/assets/134539033/7d26dde5-6ca0-4e1c-bb7b-d3ab5be7edfc)
+
+      GRÁFICO DE INPUT/OUTPUT VALOR/KM RODADO 
+![image](https://github.com/SilveiraEliane/3/assets/134539033/fe5c1c6b-82c5-424d-99a2-cfccf478ffc6)
+
+      GRÁFICO DE VALORES
+![image](https://github.com/SilveiraEliane/3/assets/134539033/2d7c430a-aaf7-4ad7-a565-984e15ec77dd)
+
+
+
     
 ## Sprint 2 . Implementação
 - [ ] Github;
