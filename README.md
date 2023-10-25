@@ -60,31 +60,36 @@ https://www.youtube.com/watch?v=HPu7vw8mIyw
 # Backlog do produto
 
 ## Sprint 0. Concepção
-- [x] Definição da equipe;
-- [x] Escolha do Scrum Master e P.O;
-- [x] Reunião de Brainstorm;
 - [x] Criação Jira 3º Semestre;
 - [x] Desenvolvimento do Github;
 - [x] Pesquisa sobre roteirização;
-- [x] Finalizada a etapa e e aprovada.
 
 ## Sprint 1. Desenvolvimento do Projeto
 - [x] Desenvolver Github;
-- [x] Perguntas ao Cliente;
-- [x] Alimentar Jira;
 - [x] Tratamento dos dados no Excel;
-- [ ] Finalizada a etapa e e aprovada.
+- [ ] Desenvolver power BI
 
-      GRÁFICO DE PRODUTIVIDADE DO TRANSPORTE POR 12 MESES
+## Sprint 2. Desenvolvimento do Projeto
+- [x] Desenvolver Github;
+- [x] Tratamento dos dados no Excel;
+- [x] Desenvolver power BI
+- [x] 
+    
+      GRÁFICO DE PRODUTIVIDADE DO TRANSPORTE POR 12 MESES em %
+      
   ![image](https://github.com/SilveiraEliane/3/assets/134539033/10abd928-c37a-4924-aaee-324011da1ad9)
 
-      GRÁFICO DE INPUT/OUTPUT DA CAPACIDADE EM % 
+
+      GRÁFICO DE INPUT/OUTPUT DA CAPACIDADE EM %
+      
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/7d26dde5-6ca0-4e1c-bb7b-d3ab5be7edfc)
 
       GRÁFICO DE INPUT/OUTPUT VALOR/KM RODADO 
+      
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/fe5c1c6b-82c5-424d-99a2-cfccf478ffc6)
 
       GRÁFICO DE VALORES
+      
 ![image](https://github.com/SilveiraEliane/3/assets/134539033/2d7c430a-aaf7-4ad7-a565-984e15ec77dd)
 
 
